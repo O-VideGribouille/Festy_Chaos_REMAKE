@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/laboi/OneDrive/Documents/COURS_ARTLINE/Projet_Findannee/Festy_Chaos/FestyChaos/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/laboi/OneDrive/Documents/COURS_ARTLINE/Projet_Findannee/Festy_Chaos/FestyChaos/Content/BPs_Characters/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/laboi/OneDrive/Documents/COURS_ARTLINE/Projet_Findannee/Festy_Chaos/FestyChaos/Content/Characters/Characters_FestyChaos/Till/Animations/Anim_Till_Jump.uasset",
+				"C:/Users/laboi/OneDrive/Documents/COURS_ARTLINE/Projet_Findannee/Festy_Chaos/FestyChaos/Content/GameActors/Interractible/Interractible_PanneauTriste2.uasset",
+				"C:/Users/laboi/OneDrive/Documents/COURS_ARTLINE/Projet_Findannee/Festy_Chaos/FestyChaos/Content/GameActors/Interractible/Interractible_Joy.uasset",
+				"C:/Users/laboi/OneDrive/Documents/COURS_ARTLINE/Projet_Findannee/Festy_Chaos/FestyChaos/Content/Maps/HUBMap.umap",
+				"C:/Users/laboi/OneDrive/Documents/COURS_ARTLINE/Projet_Findannee/Festy_Chaos/FestyChaos/Content/GameActors/Interractible/Interractible_CageLittleAngry.uasset"
+			]
+		}
+	]
+}
